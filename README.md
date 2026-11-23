@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suryansh%20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CyberSecuirty%20student%20%2CContent%20creator&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sumit %20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CyberSecuirty%20student%20%2CContent%20creator&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=azod814">
@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi, I'm Suryansh Sharma 👋
+- Hi, I'm Sumit  Sharma 👋
 - 🛡️ Cybersecurity Enthusiast & Content Creator | Building tools, labs & HACKRONIX with CCIT India.
 - 💻 Exploring Ethical Hacking, Web Security & Networking | @cyber.hunt0 🔐
 
@@ -92,7 +92,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suryansh-sharma-b5550a395/">
+  <a href="https://www.linkedin.com/in/Sumit -sharma-b5550a395/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
 
@@ -108,7 +108,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://suryansh-portfoilio.vercel.app/">
+  <a href="https://Sumit -portfoilio.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
