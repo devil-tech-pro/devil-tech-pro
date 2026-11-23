@@ -15,7 +15,7 @@
 ## 📌 About Me
 - Hi, I'm **Sumit Kumar** 👋
 - 🛡️ **Cybersecurity Intern @ CCITindia** (Feb 2026 – Jul 2026) | Working on Network Security, Kali Linux & Ethical Hacking fundamentals
-- 🎓 **MCA Pursuing (2028)** | **BCA Graduate — CCSU (2026)** | Lal Kuan, Ghaziabad, India
+- 🎓 **MCA Pursuing (2028)** | **BCA Graduate — CCSU (2026)** | India
 - 💻 Exploring Ethical Hacking, IT Infrastructure & Networking | [@cyber.hunt1](https://www.instagram.com/cyber.hunt1/) 🔐
 
 ## 🧠 My Focus Areas
