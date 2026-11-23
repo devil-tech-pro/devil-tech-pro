@@ -6,13 +6,15 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="./banner.gif" alt="Sumit Kumar Cyber Workspace Banner" width="100%" />
+</p>
 
 ## 📌 About Me
 - Hi, I'm **Sumit Kumar** 👋
 - 🛡️ **Cybersecurity Intern @ CCITindia** (Feb 2026 – Jul 2026) | Working on Network Security, Kali Linux & Ethical Hacking fundamentals
 - 🎓 **MCA Pursuing (2028)** | **BCA Graduate — CCSU (2026)** | Lal Kuan, Ghaziabad, India
-- 💻 Building Python security tools, responsive web projects & mastering IT Infrastructure and TCP/IP Networking
+- 💻 Exploring Ethical Hacking, IT Infrastructure & Networking | [@cyber.hunt1](https://www.instagram.com/cyber.hunt1/) 🔐
 
 ## 🧠 My Focus Areas
 - IT Infrastructure & System Administration (Windows & Linux)
@@ -22,11 +24,11 @@
 - Web Security & Vulnerability Assessment (Kali Linux, Nmap, Burp Suite)
 - Responsive Web Development (HTML5, CSS3, JavaScript)
 
-## GitHub Status
+## 📊 GitHub Status
 
 <p align="center">
   <a href="https://github.com/devil-tech-pro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devil-tech-pro&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="devil-tech-pro's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devil-tech-pro&show_icons=true&theme=dark&hide_border=false&border_radius=10" alt="devil-tech-pro's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=devil-tech-pro&theme=dark&hide_border=true&cache_seconds=86400" alt="devil-tech-pro's GitHub Streak" width="49%" />
 </p>
@@ -54,28 +56,25 @@
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows" alt="Kali Linux, Linux, Windows" />
 </p>
 
 <h3 align="center">Cybersecurity Tools</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" />&nbsp;&nbsp;
-  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="40" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00E5FF" alt="Nmap" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Git, GitHub, VS Code, Bash" />
 </p>
 
 <p align="center">
   <a href="https://github.com/devil-tech-pro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devil-tech-pro&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devil-tech-pro&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -85,11 +84,14 @@
   <a href="https://www.linkedin.com/in/sumit-kumar-972633338">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/cyber.hunt1/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:kumarsumit151020@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/devil-tech-pro">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/GitHub.svg" alt="GitHub" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
   </a>
 </p>
 
