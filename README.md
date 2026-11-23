@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sumit%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=IT%20Infrastructure%20%26%20Cybersecurity%20%7C%20MCA%20%2728&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+  <img src="./header.gif" alt="Sumit Kumar - IT Infrastructure & Cybersecurity" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=devil-tech-pro">
